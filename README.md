@@ -5,7 +5,7 @@
 
 
 * [Genymotion](./Genymotion.md)
-  
+* [Frida](./Frida.md)  
 ## Practice
 
 * [Damn-Vulnerable-bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank)
