@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Static-Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Static-Analysis"
             }
           }
         ],
@@ -224,8 +224,8 @@
   },
   "active": "4c4fcd317a0ff62a",
   "lastOpenFiles": [
-    "Static-Analysis.md",
     "README.md",
+    "Static-Analysis.md",
     "Frida.md",
     "Genymotion.md"
   ]
