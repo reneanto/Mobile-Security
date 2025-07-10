@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Static-Analysis"
             }
+          },
+          {
+            "id": "10b6fdddb8d2fb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebView.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebView"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c4fcd317a0ff62a",
+  "active": "10b6fdddb8d2fb03",
   "lastOpenFiles": [
-    "README.md",
     "Static-Analysis.md",
+    "WebView.md",
+    "README.md",
     "Frida.md",
     "Genymotion.md"
   ]
