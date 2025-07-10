@@ -13,12 +13,8 @@ myWebView.loadUrl("http://www.example.com");
 
 ### References
 
-[Android-Security-Checklist-Webview](https://blog.oversecured.com/Android-security-checklist-webview/)
-
-[Webview-Unsafe-File-Inclusion](https://developer.android.com/privacy-and-security/risks/webview-unsafe-file-inclusion)
-
-[Unsafe-URI-Loading](https://developer.android.com/privacy-and-security/risks/unsafe-uri-loading)
-
-[Insecure-WebView-Native-Bridges](https://developer.android.com/privacy-and-security/risks/insecure-webview-native-bridges)
-
-[MASTG-0x05h-Testing Platform-Interaction](https://mas.owasp.org/MASTG/0x05h-Testing-Platform-Interaction/#webviews)
+* [Android-Security-Checklist-Webview](https://blog.oversecured.com/Android-security-checklist-webview/)
+* [Webview-Unsafe-File-Inclusion](https://developer.android.com/privacy-and-security/risks/webview-unsafe-file-inclusion)
+* [Unsafe-URI-Loading](https://developer.android.com/privacy-and-security/risks/unsafe-uri-loading)
+* [Insecure-WebView-Native-Bridges](https://developer.android.com/privacy-and-security/risks/insecure-webview-native-bridges)
+* [MASTG-0x05h-Testing Platform-Interaction](https://mas.owasp.org/MASTG/0x05h-Testing-Platform-Interaction/#webviews)
