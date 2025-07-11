@@ -10,6 +10,7 @@ myWebView.loadUrl("http://www.example.com");
 ```
 
 * So if the `WebView` class is used in an unsafe manner, the application is exposed to the usual web security vulnerabilities such as `xss, Open Redirect` .
+* If the JS is enabled and the web app is susceptible to an XSS attack then the same will be delivered onto the Mobile Application when the activity loads the vulnerable site.
 
 ### References
 
