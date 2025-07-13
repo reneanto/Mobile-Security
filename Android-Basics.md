@@ -69,3 +69,9 @@ Intent intent = new Intent();
 intent.setClassName("com.other.app", "com.other.app.ServiceName");
 context.startService(intent);
 ```
+
+### Pending Intents
+
+These allow other applications to take action on behalf of our application, using the app's identity and permissions.
+
+If the declared intent isn't explicit, a malicious application could perform the declared action on  behalf of the victim app
