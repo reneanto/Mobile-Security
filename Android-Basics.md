@@ -75,3 +75,7 @@ context.startService(intent);
 These allow other applications to take action on behalf of our application, using the app's identity and permissions.
 
 If the declared intent isn't explicit, a malicious application could perform the declared action on  behalf of the victim app
+
+### Broadcast Intents
+
+These are the intents that can be received by multiple apps, from API version 14 we can specify an app which should receive the message by using `Intent.set.Package` .
